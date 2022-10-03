@@ -9,4 +9,4 @@ include_in_header: false
 
 # Поддержка
 
-В случае возникновения вопросов пишите [inji.qaz@gmail.com](mailto:inji.qaz@gmail.com)
+В случае возникновения вопросов или ошибок пишите на [inji.qaz@gmail.com](mailto:inji.qaz@gmail.com)
