@@ -14,7 +14,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : inji                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : даже идти не надо, продукты сами приедут к вам. Здесь вы найдёте самое нужное: хлеб, молоко, фрукты. То, что что внезапно закончилось: стиральный порошок, воду и батарейки. И всё остальное, что можно купить в магазине у дома. Но теперь покупки принесут прямо к вам.
+app_description                           : даже идти не надо, продукты сами приедут к вам.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
